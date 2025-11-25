@@ -69,11 +69,6 @@ python train.py
 
 Dataset can be extended or modified inside the /data folder.
 
-Demo:
-
-
-
-
 🔮 Future Enhancements
 
 Add more animal classes
